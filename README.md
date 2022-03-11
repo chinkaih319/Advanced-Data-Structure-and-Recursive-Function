@@ -1,6 +1,6 @@
 # SC101 for projects
 Hi There!\
-This repository holds some of my programming projects finished during my period in stanCode Class in Taiwan.
+This repository holds some of my programming projects finished during my period in Taiwan.
 If you find any bugs, don't hesitate to tell me!
 
 
