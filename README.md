@@ -1,6 +1,6 @@
-# Adcanced Data Structure/Recursive Function/Data Visualization/Image Processing/Game Designing and Animation
+# Adcanced Data Structure and Recursive Function
 Hi There!\
-This repository holds some of my programming projects focusing on different types of aspects, including data structure, advanced data structure, recursive function, data visualization, image processing and game designing and animation!
+This repository holds some of my programming projects focusing on different types of aspects, including data structure, advanced data structure, recursive function
 If you find any bugs, don't hesitate to tell me!
 
 
@@ -16,12 +16,3 @@ Some of project source codes.
 *[Boggle]*(https://github.com/chinkaih319/SC101/blob/main/project4github/boggle.py)
   * Advanced Data Structure and Recursive Function
 
-
-*[BabyNameGraphics]*(https://github.com/chinkaih319/SC101/blob/main/project4github/babygraphics.py)
-  * Data Visualization
-
-*[Blur]*(https://github.com/chinkaih319/SC101/blob/main/project4github/blur.py)
-  * Image Processing
-
-*[Breakout]*(https://github.com/chinkaih319/SC101/blob/main/project4github/breakoutgraphics.py)
-  * Game Designing and Animation
