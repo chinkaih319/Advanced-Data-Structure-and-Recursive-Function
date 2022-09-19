@@ -1,6 +1,6 @@
-# SC101 for projects
+# Adcanced Data Structure and Recursive Function
 Hi There!\
-This repository holds some of my programming projects finished during my period in Taiwan.
+This repository holds some of my programming projects including different types of aspects, including data structure and advanced data structure and recursive function!
 If you find any bugs, don't hesitate to tell me!
 
 
@@ -16,11 +16,3 @@ Some of project source codes.
 *[Boggle]*(https://github.com/chinkaih319/SC101/blob/main/project4github/boggle.py)
   * Advanced Data Structure and Recursive Function
 
-*[BabyNameGraphics]*(https://github.com/chinkaih319/SC101/blob/main/project4github/babygraphics.py)
-  * Data Visualization
-
-*[Blur]*(https://github.com/chinkaih319/SC101/blob/main/project4github/blur.py)
-  * Image Processing
-
-*[Breakout]*(https://github.com/chinkaih319/SC101/blob/main/project4github/breakoutgraphics.py)
-  * Game Designing and Animation
