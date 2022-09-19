@@ -16,3 +16,12 @@ Some of project source codes.
 *[Boggle]*(https://github.com/chinkaih319/SC101/blob/main/project4github/boggle.py)
   * Advanced Data Structure and Recursive Function
 
+
+*[BabyNameGraphics]*(https://github.com/chinkaih319/SC101/blob/main/project4github/babygraphics.py)
+  * Data Visualization
+
+*[Blur]*(https://github.com/chinkaih319/SC101/blob/main/project4github/blur.py)
+  * Image Processing
+
+*[Breakout]*(https://github.com/chinkaih319/SC101/blob/main/project4github/breakoutgraphics.py)
+  * Game Designing and Animation
