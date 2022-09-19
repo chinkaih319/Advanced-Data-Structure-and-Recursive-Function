@@ -1,4 +1,4 @@
-# Adcanced Data Structure and Recursive Function
+# Adcanced Data Structure/Recursive Function/Data Visualization/Image Processing/Game Designing and Animayion
 Hi There!\
 This repository holds some of my programming projects focusinging on different types of aspects, including data structure, advanced data structure, recursive function, data visualization, image processing and game designing and animation!
 If you find any bugs, don't hesitate to tell me!
